@@ -1,27 +1,27 @@
-.MMM-Wallpaper .wallpaper {
+.WL-Wallpaper .wallpaper {
   position: fixed;
   left: 50%;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
 
-.MMM-Wallpaper .cover-tall {
+.WL-Wallpaper .cover-tall {
   width: 100%;
 }
 
-.MMM-Wallpaper .cover-wide {
+.WL-Wallpaper .cover-wide {
   height: 100%;
 }
 
-.MMM-Wallpaper .contain-tall {
+.WL-Wallpaper .contain-tall {
   height: 100%;
 }
 
-.MMM-Wallpaper .contain-wide {
+.WL-Wallpaper .contain-wide {
   width: 100%;
 }
 
-.MMM-Wallpaper .title {
+.WL-Wallpaper .title {
   position: absolute;
   right: 25px;
   bottom: 25px;
